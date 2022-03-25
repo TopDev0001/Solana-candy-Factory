@@ -74,7 +74,7 @@ The best way to support me is by following me on [https://twitter.com/kevinfaver
 
 https://github.com/exiled-apes/candy-machine-mint
 
-https://github.com/InnerMindDAO/MintUI (GUI for the Candy Machine)
+https://github.com/oleksiikovalenko/Solana-candy-MintUI (GUI for the Candy Machine)
 
 https://github.com/maxwellfortney/next-candy-machine (More simplified version of this repo)
 
