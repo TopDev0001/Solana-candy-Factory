@@ -14,7 +14,7 @@ A candy machine is an on-chain Solana program for managing fair mint. Fair mints
 * Start and finish at the same time for everyone.
 * Won't accept your funds if they're out of NFTs to sell.
 
-It builds on top of the the work started athttps://github.com/oleksiikovalenko/Solana-candy-marchine-Mint, abstracting away a few things (like having one-command shortcuts in the package.json that instantly setups dev env), improving DX and adding new tools for managing the source files. It also features some other features:
+It builds on top of the the work started at ttps://github.com/oleksiikovalenko/Solana-candy-marchine-Mint, abstracting away a few things (like having one-command shortcuts in the package.json that instantly setups dev env), improving DX and adding new tools for managing the source files. It also features some other features:
 - Listing of NFTs of the collection
 - A tool for getting the mint hashes
 - A tool for getting the list of holders
