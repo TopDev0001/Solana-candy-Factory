@@ -72,16 +72,9 @@ The best way to support me is by following me on [https://twitter.com/kevinfaver
 
 ## Others Tools
 
-If you want multisig wallets, you may study https://github.com/GokiProtocol/goki or the https://github.com/project-serum/multisig.
-
-Also, a ton of other useful tools/repos:
-https://github.com/HashLips/hashlips_art_engine
-
 https://github.com/exiled-apes/candy-machine-mint
 
 https://github.com/InnerMindDAO/MintUI (GUI for the Candy Machine)
-
-https://github.com/theskeletoncrew/treat-toolbox (WebApp for creating collections + Candy Machine without the candy machine cli overhead)
 
 https://github.com/maxwellfortney/next-candy-machine (More simplified version of this repo)
 
