@@ -87,6 +87,4 @@ https://github.com/maxwellfortney/next-candy-machine (More simplified version of
 
 https://github.com/samuelvanderwaal/metaboss (CLI with useful tools for Metaplex)
 
-## Hire
 
-If you want to hire me to develop your candy machine application on the Solana or Ethereum blockchain feel free to reach me through the email kevin@faveri.dev
