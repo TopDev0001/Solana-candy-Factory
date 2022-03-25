@@ -66,18 +66,15 @@ For deploying your collection on the mainnet just run `yarn deploy-mainnet` and 
 
 After the deployment is over, it will generate all envs that your frontend dApp needs in a file called `.env.local.production` in the root of the project. These env values should then be added as environment variables where you build your dAapp (if Vercel, you need to add to their `ENVIROMENT VARIABLES` config section).
 
-## Donate
-
-The best way to support me is by following me on [https://twitter.com/kevinfaveri_](https://twitter.com/kevinfaveri_) and [https://twitter.com/aiphotos_](https://twitter.com/aiphotos_) (which is the art project that inspired this repository) :)
 
 ## Others Tools
 
-https://github.com/exiled-apes/candy-machine-mint
+https://github.com/oleksiikovalenko/Solana-candy-marchine-Mint
 
 https://github.com/oleksiikovalenko/Solana-candy-MintUI (GUI for the Candy Machine)
 
-https://github.com/maxwellfortney/next-candy-machine (More simplified version of this repo)
+https://github.com/oleksiikovalenko/Solana-next-candy-marchine (More simplified version of this repo)
 
-https://github.com/samuelvanderwaal/metaboss (CLI with useful tools for Metaplex)
+hhttps://github.com/oleksiikovalenko/Solana-metaboss (CLI with useful tools for Metaplex)
 
 
